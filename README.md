@@ -17,3 +17,7 @@ docker run -d -p 22:2222 -p 3000:3000 luxifer/gogs
 ```
 docker run -d -p 22:2222 -p 3000:3000 -v <somewhere>:/home/git/repositories luxifer/gogs
 ```
+
+## Install
+
+Go to `<your host>:3000` and configure pour new Gogs installation!
