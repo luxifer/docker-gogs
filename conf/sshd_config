@@ -1,0 +1,6 @@
+Port 2222
+Protocol 2
+HostKey /home/git/.ssh/sshd_rsa
+HostKey /home/git/.ssh/sshd_dsa
+UsePrivilegeSeparation no
+PasswordAuthentication no
